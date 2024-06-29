@@ -21,7 +21,7 @@ This project implements a basic calculator interface on the web. It allows users
 
 To use the calculator:
 1. Clone or download the repository.
-2. Open `index.html` in your web browser.
+2. Open `calc.html` in your web browser.
 3. Start performing calculations using the buttons provided.
 
 ## 🔗 Link to view my Calculator on web
